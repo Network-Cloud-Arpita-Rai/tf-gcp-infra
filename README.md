@@ -1,6 +1,6 @@
 # Terraform Infrastructure Deployment
 
-This repository contains Terraform code for deploying a simple Google Cloud Platform (GCP) infrastructure, including a Virtual Private Cloud (VPC) with subnets and routes. The infrastructure is defined as code and follows best practices.
+This repository contains Terraform code for deploying a simple Google Cloud Platform (GCP) infrastructure, including a Virtual Private Cloud (VPC) with subnets and routes. The infrastructure is defined as code and follows best practices:
 
 ## Requirements
 
