@@ -34,7 +34,7 @@ resource "google_compute_route" "webapp_route" {
   next_hop_gateway = "default-internet-gateway"
 }
 
-# Output variables
+# Output variables here
 output "webapp_subnet_cidr" {
   value = google_compute_subnetwork.webapp_subnet.ip_cidr_range
 }
